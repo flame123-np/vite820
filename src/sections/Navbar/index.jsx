@@ -1,7 +1,7 @@
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faArrowRight } from '@fortawesome/free-solid-svg-icons'
-const Navbar = () => {
-    return(
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faArrowRight } from '@fortawesome/free-solid-svg-icons';
+const Navber = () => {
+    return (
         <div className='text-left flex flex-col gap-4 font-semibold'>
             <div>
                 <FontAwesomeIcon className='mr-2 text-primaryTitle' icon={faArrowRight}/>
@@ -14,4 +14,4 @@ const Navbar = () => {
     )
 }
 
-export default Navbar;
+export default Navber;

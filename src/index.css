@@ -3,9 +3,9 @@
 @tailwind utilities;
 
 @layer base {
-  body{
+  body {
     margin: 0;
     @apply bg-primaryBg;
-    @apply text-primaryBase;
+    @apply text-primarySubcontent;
   }
 }

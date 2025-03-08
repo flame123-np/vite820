@@ -1,4 +1,4 @@
-import filename from '../assets/resume.pdf';
+import filename from '../assets/Resume.pdf';
 
 export const data = {
 name:"Nuttaphat Yuenyong",
