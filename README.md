@@ -1,12 +1,32 @@
-# React + Vite
+# 💻 Web Portfolio (Nuttaphat & Tongsasithon)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+เว็บไซต์พอร์ตโฟลิโอส่วนตัว (Personal Portfolio Website) สำหรับแนะนำตัวเอง รวบรวมประวัติการศึกษา ประสบการณ์การทำงาน และผลงานต่างๆ เพื่อใช้ในการนำเสนอข้อมูลในรูปแบบออนไลน์ที่ทันสมัยและใช้งานง่าย
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ ฟีเจอร์เด่นของระบบ (Features)
+* **Responsive Design:** รองรับการแสดงผลทุกหน้าจอ ไม่ว่าจะเป็นคอมพิวเตอร์ แท็บเล็ต หรือสมาร์ทโฟน
+* **Modern Layout:** แบ่งสัดส่วนหน้าจอออกเป็น 2 ฝั่ง (Fixed Left Section / Scrollable Right Section) เพื่อการไล่ดูข้อมูลที่ลื่นไหล
+* **Structured Content:** แยกส่วนข้อมูลชัดเจน เช่น ประวัติโดยย่อ (About), ประสบการณ์ (Experience), และช่องทางการติดต่อ (Contact)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ เทคโนโลยีที่เลือกใช้ (Tech Stack)
+
+### **Frontend & Core Libraries**
+* **[React](https://react.dev/):** ไลบรารีหลักในการจัดการโครงสร้างและแนวคิดแบบ Component-based
+* **[Vite](https://vite.dev/):** เครื่องมือ Build Tool ยุคใหม่ที่ช่วยให้รันและอัปเดตโค้ดได้อย่างรวดเร็ว (HMR)
+
+### **Styling & Design**
+* **[Tailwind CSS](https://tailwindcss.com/):** ยูทิลิตี้เฟรมเวิร์กสำหรับเขียนสไตล์ที่รวดเร็วและปรับแต่งหน้าตาเว็บได้อย่างอิสระ
+* **[PostCSS](https://postcss.org/):** เครื่องมือช่วยแปลงโค้ด CSS ให้รองรับเบราว์เซอร์ต่างๆ
+
+### **Code Quality & Tools**
+* **ESLint:** ตัวช่วยตรวจสอบและควบคุมคุณภาพของโค้ดให้เป็นระบบและลดข้อผิดพลาด
+
+---
+
+## 👥 สมาชิกผู้พัฒนา (Developers)
+* **Nuttaphat** ([@flame123-np](https://github.com/flame123-np))
+
+*(หมายเหตุ: โปรเจกต์นี้เป็นส่วนหนึ่งของรายวิชาInternet Technology(02739241)ในภาคการศึกษา 2567 กลุ่มเรียน 820)*
