@@ -4,7 +4,7 @@ import Contact from "../Contact"
 
 const LeftSection = () => {
     return (
-    <div classname = "px-5">
+    <div className = "px-5">
         <div className='sticky top-0 grid gap-y-4 ig:grid-rows-[35%_40%_25%] lg:h-[87vh]'>
            <Header />
            <Navber />
